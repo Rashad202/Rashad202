@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rashad-elsayed-5061b3206/) [Gmail](Rashadelgarf3@gmail.com)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashad202&label=Profile%20views&color=0e75b6&style=flat" alt="rashad202" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,5 +36,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashad202&show_icons=true&locale=en" alt="rashad202" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashad202&" alt="rashad202" /></p>
